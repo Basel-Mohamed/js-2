@@ -1,0 +1,27 @@
+.main h1 {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  padding: 3.8% 0;
+}
+.main p {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.main .main-btn {
+  font-family: Arial, Helvetica, sans-serif;
+
+  font-size: .8125rem;
+  background-color: blue;
+  padding: 1.8% 6%;
+  cursor: default;
+}
+
+
+.main .main-btn:hover{
+background-color: green;
+}
+
+.main .main-pargraph, .qoute, .auther{
+
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2.1875rem;
+}
